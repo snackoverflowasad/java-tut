@@ -1,4 +1,7 @@
 // Create a class and object to print student details
+// Difficulty: Easy
+// Topic: OOP Basics
+
 import java.util.*;
 
 class student {

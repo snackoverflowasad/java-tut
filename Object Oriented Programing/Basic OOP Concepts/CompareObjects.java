@@ -1,4 +1,6 @@
 // Topic: Multiple Objects Comparison
+// Difficulty: Easy
+// Topic: OOP Basics
 
 import java.util.*;
 

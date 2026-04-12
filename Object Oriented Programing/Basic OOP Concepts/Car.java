@@ -1,4 +1,6 @@
 // Topic: Class with Attributes
+// Difficulty: Easy
+// Topic: OOP Basics
 
 import java.util.*;
 

@@ -1,4 +1,6 @@
 // Topic: Methods in Class
+// Difficulty: Easy
+// Topic: OOP Basics
 
 import java.util.*;
 
